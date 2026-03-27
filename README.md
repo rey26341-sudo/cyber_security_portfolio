@@ -153,19 +153,6 @@ Analyzing system, network, and application logs to identify **indicators of comp
 ✔ Data exfiltration patterns
 ✔ Malware C2 beacon traffic
 ```
-
----
-
-## 🎯 Interview Prep
-
-Security concepts, writeups, and study notes covering:
-
-- **CompTIA Security+** core domains
-- **SOC Analyst** interview questions & answers
-- **Incident Response** playbooks
-- **Network security** fundamentals
-- **CTF writeups** and challenge solutions
-
 ---
 
 ## 🛠️ Tools & Technologies
